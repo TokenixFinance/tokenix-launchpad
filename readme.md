@@ -1,6 +1,6 @@
 # Tokenix Smart Contract
 
-This repository contains the smart contract for Tokenix, a launchpad project currently under development at tokenix.finance.
+This repository contains the smart contract for Tokenix, a launchpad project currently under development at https://tokenix.finance.
 
 ## Overview
 
