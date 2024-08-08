@@ -103,15 +103,6 @@ For any inquiries or support, please contact us at:
 - Email: dev@tokenix.finance
 - Twitter: [@TokenixFinance](https://twitter.com/TokenixFinance)
 
-## Roadmap
-
-Our current development roadmap includes:
-
-1. Q3 2023: Complete core smart contract development and testing
-2. Q4 2023: Launch testnet version and conduct security audits
-3. Q1 2024: Mainnet launch and initial token offerings
-
-Please note that this roadmap is subject to change as the project evolves.
 
 ## Security
 
